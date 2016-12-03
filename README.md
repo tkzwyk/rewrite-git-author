@@ -12,7 +12,7 @@ Refer to : [Changing author info - User Documentation](https://help.github.com/a
 
 2. Edit the followings in `rewrite_git_author` function in `rewrite-git-author.sh`
 
-    ```
+    ```bash
     OLD_EMAIL="your-old-email@example.com"
     CORRECT_NAME="Your Correct Name"
     CORRECT_EMAIL="your-correct-email@example.com"
