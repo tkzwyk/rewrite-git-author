@@ -1,0 +1,3 @@
+git@github.com:username/repository1.git
+git@github.com:username/repository2.git
+git@github.com:username/repository3.git
